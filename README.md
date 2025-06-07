@@ -1,4 +1,4 @@
-<h1 align="center">Fala ae! Eu sou o Pedro 👋</h1>
+<h1 align="center">Fala ae! Eu sou Pedro 👋</h1>
 <p align="center">Desenvolvedor Front-end júnior | Estudante de Ciência da Computação & ADS | Apaixonado por tecnologia e design funcional</p>
 
 ---
