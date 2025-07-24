@@ -47,13 +47,7 @@ Procuro sempre entender bem o problema antes de pensar na solução — com clar
 
 - **Dashboard de Tomadas de Contas** — Painel interativo com insights e gráficos.  
 - **Órbita** — Plataforma de cursos online em desenvolvimento.
-
----
-
-📫 **Me chama pra trocar ideia:**
-- ✉️ [pedrosoaress365@gmail.com]
-- 💼 -
-- 🌐 -
+- **Copa Pistão** - Campeonato de Kart
 
 ---
 
