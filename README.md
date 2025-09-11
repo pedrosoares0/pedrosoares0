@@ -16,7 +16,7 @@ Procuro sempre entender bem o problema antes de pensar na solução — com clar
 - Desenvolvimento front-end
 - Criando sistemas internos no setor público
 - Projetos pessoais
-- Fazendo dois cursos superiores ao mesmo tempo
+- Fazendo dois cursos superiores
 
 📚 Sempre estudando e quebrando a cabeça.
 
