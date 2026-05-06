@@ -68,12 +68,32 @@ Formado em ADS, cursando Ciência da Computação - Salvador, Bahia.
 
 ### ✨ Projetos em destaque
 
-| Projeto | Descrição |
-|---|---|
-| [RB Group](https://pedrosoares0.github.io/RBgroup/) | Redesign do site da R+B Group, Inc. — empreiteira civil de Houston, Texas. Modernização de uma presença digital parada desde 2008, com foco em credibilidade, serviços e infraestrutura hídrica municipal. |
-| [Ilê Webapp](https://github.com/pedrosoares0) | Plataforma web para terreiros de Umbanda e Candomblé — gestão financeira, calendário litúrgico, biblioteca de pontos cantados e comunidade. Feito com React, TypeScript e Tailwind. |
-| [Dra. Laura](https://dralaura.netlify.app/) | Landing page profissional para clínica odontológica — construída para transmitir confiança, apresentar serviços e converter visitantes em pacientes. |
-| [Toinho Redes](https://pedrosoares0.github.io/toinho-redes-landing/) | Landing page moderna para a Toinho Redes — redes esportivas personalizadas usadas nas praias, quadras e eventos da Bahia. |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://pedrosoares0.github.io/RBgroup/">RB Group</a></h4>
+      <p>Redesign do site da R+B Group, Inc. — empreiteira civil de Houston, Texas. Modernização de uma presença digital parada desde 2008, com foco em credibilidade e infraestrutura hídrica municipal.</p>
+      <sub>HTML · CSS · JavaScript</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="#">Ilê Webapp</a></h4>
+      <p>Plataforma web para terreiros de Umbanda e Candomblé — gestão financeira, calendário litúrgico, biblioteca de pontos cantados e comunidade.</p>
+      <sub>React · TypeScript · Tailwind</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://dralaura.netlify.app/">Dra. Laura</a></h4>
+      <p>Landing page profissional para clínica odontológica — confiança, serviços e conversão de visitantes em pacientes.</p>
+      <sub>HTML · CSS · JavaScript</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://pedrosoares0.github.io/toinho-redes-landing/">Toinho Redes</a></h4>
+      <p>Landing page para a Toinho Redes — redes esportivas personalizadas usadas nas praias, quadras e eventos da Bahia.</p>
+      <sub>HTML · CSS · JavaScript</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
