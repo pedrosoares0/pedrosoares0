@@ -1,53 +1,79 @@
-<h1 align="center">Fala ae! Eu sou Pedro 👋</h1>
-<p align="center">Desenvolvedor Front-end júnior | Estudante de Ciência da Computação & ADS | Apaixonado por tecnologia e design funcional</p>
+<p align="center">
+<img src="./banner.png" alt="Pedro Soares - Dev Frontend | Designer" width="100%"/>
+</p>
+<p align="center">Desenvolvedor Front-end | Estudante de Ciência da Computação & ADS | Apaixonado por tecnologia e design</p>
 
 ---
 
 🌍 **Sobre mim**
 
-Desenvolvedor full stack júnior, com mais afinidade no front-end. Gosto de construir aplicações web que funcionem bem de ponta a ponta — do banco à interface. Me interesso por sistemas que organizam dados, facilitam processos e entregam uma experiência direta e intuitiva.
+Desenvolvedor Frontend com experiência e designer — me preocupo com o que o usuário
+vê e com o que acontece por trás do código.
 
-Procuro sempre entender bem o problema antes de pensar na solução — com clareza, usabilidade e organização.
+Trabalho com React, TypeScript e Tailwind. Tenho experiência com banco de dados
+(MySQL e Supabase) e integração de APIs REST.
 
+Formado em ADS, cursando Ciência da Computação - Salvador, Bahia.
 
-🧠 Curioso por inteligência artificial, automações inteligentes, dados que contam histórias e sistemas que resolvem mais do que complicam.
 
 💼 Atualmente:
 - Desenvolvimento front-end
 - Criando sistemas internos no setor público
-- Projetos pessoais
-- Fazendo dois cursos superiores
+- Projetos pessoais e freelas 
 
 📚 Sempre estudando e quebrando a cabeça.
 
 ---
 
-🚀 **Skills**
+### 🚀 Stack
 
-**Linguagens e Frameworks**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+**Linguagens**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-**Outros:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+**Frameworks & Bibliotecas**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
+
+**Banco de Dados**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
+
+**Design & Ferramentas**
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 
 ---
 
-🧩 **Projetos em destaque**
+### ✨ Projetos em destaque
 
-- **Dashboard de Tomadas de Contas** — Painel interativo com insights e gráficos.  
-- **Órbita** — Plataforma de cursos online em desenvolvimento.
-- **Copa Pistão** - Campeonato de Kart
+| Projeto | Descrição |
+|---|---|
+| [RB Group](https://pedrosoares0.github.io/RBgroup/) | Redesign do site da R+B Group, Inc. — empreiteira civil de Houston, Texas. Modernização de uma presença digital parada desde 2008, com foco em credibilidade, serviços e infraestrutura hídrica municipal. |
+| [Ilê Webapp](https://github.com/pedrosoares0) | Plataforma web para terreiros de Umbanda e Candomblé — gestão financeira, calendário litúrgico, biblioteca de pontos cantados e comunidade. Feito com React, TypeScript e Tailwind. |
+| [Dra. Laura](https://dralaura.netlify.app/) | Landing page profissional para clínica odontológica — construída para transmitir confiança, apresentar serviços e converter visitantes em pacientes. |
+| [Toinho Redes](https://pedrosoares0.github.io/toinho-redes-landing/) | Landing page moderna para a Toinho Redes — redes esportivas personalizadas usadas nas praias, quadras e eventos da Bahia. |
 
 ---
 
