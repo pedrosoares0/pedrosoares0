@@ -5,21 +5,15 @@
 
 ---
 
-🌍 **Sobre mim**
+### 🌐 Sobre mim
 
-Desenvolvedor Frontend com experiência e designer — me preocupo com o que o usuário
-vê e com o que acontece por trás do código.
+Desenvolvedor Frontend com experiência em design — me preocupo com o que o usuário vê e com o que acontece por trás do código.
 
-Trabalho com React, TypeScript e Tailwind. Tenho experiência com banco de dados
-(MySQL e Supabase) e integração de APIs REST.
+Trabalho com React, TypeScript e Tailwind. Tenho experiência com banco de dados (MySQL e Supabase) e integração de APIs REST.
 
-Formado em ADS, cursando Ciência da Computação - Salvador, Bahia.
+Formado em ADS, cursando Ciência da Computação. Baseado em Salvador, Bahia.
 
-
-💼 Atualmente:
-- Desenvolvimento front-end
-- Criando sistemas internos no setor público
-- Projetos pessoais e freelas 
+🗂️ **Atualmente:** sistemas internos no setor público, projetos pessoais e freelas.
 
 📚 Sempre estudando e quebrando a cabeça.
 
@@ -27,21 +21,22 @@ Formado em ADS, cursando Ciência da Computação - Salvador, Bahia.
 
 ### 🚀 Stack
 
-**Linguagens**
+**Linguagens & Marcação**
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 **Frameworks & Bibliotecas**
 <p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 </p>
 
 **Banco de Dados**
@@ -53,12 +48,11 @@ Formado em ADS, cursando Ciência da Computação - Salvador, Bahia.
 **Design & Ferramentas**
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white"/>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
