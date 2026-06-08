@@ -77,7 +77,7 @@ Formado em ADS, cursando Ciência da Computação. Baseado em Salvador, Bahia.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://dralaura.netlify.app/">Dra. Laura</a></h4>
+      <h4><a href="https://pedrosoares0.github.io/dra.laura/">Dra. Laura</a></h4>
       <p>Landing page profissional para clínica odontológica — confiança, serviços e conversão de visitantes em pacientes.</p>
       <sub>HTML · CSS · JavaScript</sub>
     </td>
