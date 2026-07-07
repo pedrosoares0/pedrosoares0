@@ -35,7 +35,7 @@ Olá! Sou o Pedro Soares. Sou formado em **Análise e Desenvolvimento de Sistema
   <!-- Projeto 1 -->
   <tr style="border: none;">
     <td width="40%" valign="top" style="border: none;">
-      <a href="https://github.com/pedrosoares0/bolao">
+      <a href="https://bandidosapostados.netlify.app/">
         <img src="./assets/capa-bolao.webp" alt="Bolão Copa 2026 Preview" width="100%" style="border-radius: 8px; border: 1px solid #e1e4e8;"/>
       </a>
     </td>
@@ -43,7 +43,7 @@ Olá! Sou o Pedro Soares. Sou formado em **Análise e Desenvolvimento de Sistema
     <td width="55%" valign="top" style="border: none;">
       <h3>Bolão Copa do Mundo 2026</h3>
       <p>Plataforma mobile-first completa para bolão da Copa do Mundo. Conta com placares ao vivo sincronizados diretamente com a API da ESPN, atualizações instantâneas de ranking, sistema integrado de premiações e fiados, e notificações automatizadas via WhatsApp para manter o grupo engajado.</p>
-      <a href="https://github.com/pedrosoares0/bolao">Repositório</a>
+      <a href="https://bandidosapostados.netlify.app/">Demo</a> | <a href="https://github.com/pedrosoares0/bolao">Repositório</a>
     </td>
   </tr>
 
