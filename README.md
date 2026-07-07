@@ -35,6 +35,24 @@ Olá! Sou o Pedro Soares. Sou formado em **Análise e Desenvolvimento de Sistema
   <!-- Projeto 1 -->
   <tr style="border: none;">
     <td width="40%" valign="top" style="border: none;">
+      <a href="https://github.com/pedrosoares0/bolao">
+        <img src="./assets/capa-bolao.webp" alt="Bolão Copa 2026 Preview" width="100%" style="border-radius: 8px; border: 1px solid #e1e4e8;"/>
+      </a>
+    </td>
+    <td width="5%" style="border: none;"></td>
+    <td width="55%" valign="top" style="border: none;">
+      <h3>Bolão Copa 2026</h3>
+      <p>Plataforma mobile-first de bolão esportivo para a Copa do Mundo. Desenvolvida com banco de dados em tempo real e RLS (Supabase), serverless functions cron (Netlify) para integração de APIs da ESPN e football-data.org, e envio de notificações automatizadas no WhatsApp.</p>
+      <a href="https://github.com/pedrosoares0/bolao">Repositório</a>
+    </td>
+  </tr>
+
+  <!-- Espaçador entre projetos -->
+  <tr style="border: none;"><td colspan="3" height="20" style="border: none;"></td></tr>
+
+  <!-- Projeto 2 -->
+  <tr style="border: none;">
+    <td width="40%" valign="top" style="border: none;">
       <a href="https://pedrosoares0.github.io/RBgroup/">
         <img src="./assets/capa-rb.webp" alt="RB Group Preview" width="100%" style="border-radius: 8px; border: 1px solid #e1e4e8;"/>
       </a>
@@ -50,7 +68,7 @@ Olá! Sou o Pedro Soares. Sou formado em **Análise e Desenvolvimento de Sistema
   <!-- Espaçador entre projetos -->
   <tr style="border: none;"><td colspan="3" height="20" style="border: none;"></td></tr>
 
-  <!-- Projeto 2 -->
+  <!-- Projeto 3 -->
   <tr style="border: none;">
     <td width="40%" valign="top" style="border: none;">
       <a href="#">
@@ -68,7 +86,7 @@ Olá! Sou o Pedro Soares. Sou formado em **Análise e Desenvolvimento de Sistema
   <!-- Espaçador entre projetos -->
   <tr style="border: none;"><td colspan="3" height="20" style="border: none;"></td></tr>
 
-  <!-- Projeto 3 -->
+  <!-- Projeto 4 -->
   <tr style="border: none;">
     <td width="40%" valign="top" style="border: none;">
       <a href="https://pedrosoares0.github.io/dra.laura/">
@@ -86,7 +104,7 @@ Olá! Sou o Pedro Soares. Sou formado em **Análise e Desenvolvimento de Sistema
   <!-- Espaçador entre projetos -->
   <tr style="border: none;"><td colspan="3" height="20" style="border: none;"></td></tr>
 
-  <!-- Projeto 4 -->
+  <!-- Projeto 5 -->
   <tr style="border: none;">
     <td width="40%" valign="top" style="border: none;">
       <a href="https://pedrosoares0.github.io/toinho-redes-landing/">
