@@ -35,10 +35,10 @@ Olá! Sou o Pedro Soares. Sou formado em **Análise e Desenvolvimento de Sistema
   <tr>
     <td width="50%" valign="top">
       <a href="https://pedrosoares0.github.io/RBgroup/">
-        <img src="./assets/rbgroup.png" alt="RB Group Preview" width="100%" style="border-radius: 8px; border: 1px solid #e1e4e8;"/>
+        <img src="./assets/capa-rb.webp" alt="RB Group Preview" width="100%" style="border-radius: 8px; border: 1px solid #e1e4e8;"/>
       </a>
       <br/>
-      <h3>🏢 RB Group</h3>
+      <h3>RB Group</h3>
       <p>Redesign completo e modernização institucional da presença digital da R+B Group, Inc. (Houston, Texas). Foco em autoridade corporativa e infraestrutura hídrica municipal.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -49,10 +49,10 @@ Olá! Sou o Pedro Soares. Sou formado em **Análise e Desenvolvimento de Sistema
     </td>
     <td width="50%" valign="top">
       <a href="#">
-        <img src="./assets/ilewebapp.png" alt="Ilê Webapp Preview" width="100%" style="border-radius: 8px; border: 1px solid #e1e4e8;"/>
+        <img src="./assets/capa-ilê.webp" alt="Ilê Webapp Preview" width="100%" style="border-radius: 8px; border: 1px solid #e1e4e8;"/>
       </a>
       <br/>
-      <h3>✨ Ilê Webapp</h3>
+      <h3>Ilê Webapp</h3>
       <p>Plataforma para gestão interna de templos religiosos (Umbanda/Candomblé). Centraliza fluxo financeiro, calendário litúrgico interativo e biblioteca integrada.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -65,10 +65,10 @@ Olá! Sou o Pedro Soares. Sou formado em **Análise e Desenvolvimento de Sistema
   <tr>
     <td width="50%" valign="top">
       <a href="https://pedrosoares0.github.io/dra.laura/">
-        <img src="./assets/dralaura.png" alt="Dra. Laura Preview" width="100%" style="border-radius: 8px; border: 1px solid #e1e4e8;"/>
+        <img src="./assets/capa-laura.webp" alt="Dra. Laura Preview" width="100%" style="border-radius: 8px; border: 1px solid #e1e4e8;"/>
       </a>
       <br/>
-      <h3>🦷 Dra. Laura</h3>
+      <h3>Dra. Laura</h3>
       <p>Landing page odontológica de alta conversão. Interface moderna e limpa, com arquitetura voltada para autoridade profissional e captação/agendamento de pacientes.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -79,10 +79,10 @@ Olá! Sou o Pedro Soares. Sou formado em **Análise e Desenvolvimento de Sistema
     </td>
     <td width="50%" valign="top">
       <a href="https://pedrosoares0.github.io/toinho-redes-landing/">
-        <img src="./assets/toinhoredes.png" alt="Toinho Redes Preview" width="100%" style="border-radius: 8px; border: 1px solid #e1e4e8;"/>
+        <img src="./assets/capa-toinho.webp" alt="Toinho Redes Preview" width="100%" style="border-radius: 8px; border: 1px solid #e1e4e8;"/>
       </a>
       <br/>
-      <h3>🏐 Toinho Redes</h3>
+      <h3>Toinho Redes</h3>
       <p>Landing page promocional e institucional desenvolvida para fabricante de redes esportivas personalizadas na Bahia. Otimizada para SEO local e captação de leads via mobile.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
