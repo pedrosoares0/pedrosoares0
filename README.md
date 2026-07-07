@@ -88,7 +88,7 @@ Olá! Sou o Pedro Soares. Sou formado em **Análise e Desenvolvimento de Sistema
   <!-- Projeto 4: Ilê Webapp -->
   <tr style="border: none;">
     <td width="40%" valign="top" style="border: none;">
-      <a href="#">
+      <a href="https://github.com/pedrosoares0/ile-webapp">
         <img src="./assets/capa-ilê.webp" alt="Ilê Webapp Preview" width="100%" style="border-radius: 8px; border: 1px solid #e1e4e8;"/>
       </a>
     </td>
