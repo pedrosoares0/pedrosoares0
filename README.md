@@ -32,41 +32,69 @@ Olá! Sou o Pedro Soares. Sou formado em **Análise e Desenvolvimento de Sistema
 ### 🚀 Projetos em Destaque
 
 <table width="100%">
+  <!-- Projeto 1 -->
   <tr>
-    <td width="50%" valign="top">
+    <td width="40%" valign="top">
       <a href="https://pedrosoares0.github.io/RBgroup/">
         <img src="./assets/capa-rb.webp" alt="RB Group Preview" width="100%" style="border-radius: 8px; border: 1px solid #e1e4e8;"/>
       </a>
-      <br/>
+    </td>
+    <td width="5%"></td>
+    <td width="55%" valign="top">
       <h3>RB Group</h3>
       <p>Redesign completo e modernização institucional da presença digital da R+B Group, Inc. (Houston, Texas). Foco em autoridade corporativa e infraestrutura hídrica municipal.</p>
       <a href="https://pedrosoares0.github.io/RBgroup/">Demo</a> | <a href="https://github.com/pedrosoares0/RBgroup">Repositório</a>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+
+  <!-- Espaçador entre projetos -->
+  <tr><td colspan="3" height="20"></td></tr>
+
+  <!-- Projeto 2 -->
+  <tr>
+    <td width="40%" valign="top">
       <a href="#">
         <img src="./assets/capa-ilê.webp" alt="Ilê Webapp Preview" width="100%" style="border-radius: 8px; border: 1px solid #e1e4e8;"/>
       </a>
-      <br/>
+    </td>
+    <td width="5%"></td>
+    <td width="55%" valign="top">
       <h3>Ilê Webapp</h3>
       <p>Plataforma para gestão interna de templos religiosos (Umbanda/Candomblé). Centraliza fluxo financeiro, calendário litúrgico interativo e biblioteca integrada.</p>
       <a href="https://github.com/pedrosoares0/ile-webapp">Repositório</a>
     </td>
   </tr>
+
+  <!-- Espaçador entre projetos -->
+  <tr><td colspan="3" height="20"></td></tr>
+
+  <!-- Projeto 3 -->
   <tr>
-    <td width="50%" valign="top">
+    <td width="40%" valign="top">
       <a href="https://pedrosoares0.github.io/dra.laura/">
         <img src="./assets/capa-laura.webp" alt="Dra. Laura Preview" width="100%" style="border-radius: 8px; border: 1px solid #e1e4e8;"/>
       </a>
-      <br/>
+    </td>
+    <td width="5%"></td>
+    <td width="55%" valign="top">
       <h3>Dra. Laura</h3>
       <p>Landing page odontológica de alta conversão. Interface moderna e limpa, com arquitetura voltada para autoridade profissional e captação/agendamento de pacientes.</p>
       <a href="https://pedrosoares0.github.io/dra.laura/">Demo</a> | <a href="https://github.com/pedrosoares0/dra.laura">Repositório</a>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+
+  <!-- Espaçador entre projetos -->
+  <tr><td colspan="3" height="20"></td></tr>
+
+  <!-- Projeto 4 -->
+  <tr>
+    <td width="40%" valign="top">
       <a href="https://pedrosoares0.github.io/toinho-redes-landing/">
         <img src="./assets/capa-toinho.webp" alt="Toinho Redes Preview" width="100%" style="border-radius: 8px; border: 1px solid #e1e4e8;"/>
       </a>
-      <br/>
+    </td>
+    <td width="5%"></td>
+    <td width="55%" valign="top">
       <h3>Toinho Redes</h3>
       <p>Landing page promocional e institucional desenvolvida para fabricante de redes esportivas personalizadas na Bahia. Otimizada para SEO local e captação de leads via mobile.</p>
       <a href="https://pedrosoares0.github.io/toinho-redes-landing/">Demo</a> | <a href="https://github.com/pedrosoares0/toinho-redes-landing">Repositório</a>
