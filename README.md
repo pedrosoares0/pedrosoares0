@@ -41,8 +41,8 @@ Olá! Sou o Pedro Soares. Sou formado em **Análise e Desenvolvimento de Sistema
     </td>
     <td width="5%" style="border: none;"></td>
     <td width="55%" valign="top" style="border: none;">
-      <h3>Bolão Copa 2026</h3>
-      <p>Plataforma mobile-first de bolão esportivo para a Copa do Mundo. Desenvolvida com banco de dados em tempo real e RLS (Supabase), serverless functions cron (Netlify) para integração de APIs da ESPN e football-data.org, e envio de notificações automatizadas no WhatsApp.</p>
+      <h3>Bolão Copa do Mundo 2026</h3>
+      <p>Plataforma mobile-first completa para bolão da Copa do Mundo. Conta com placares ao vivo sincronizados diretamente com a API da ESPN, atualizações instantâneas de ranking, sistema integrado de premiações e fiados, e notificações automatizadas via WhatsApp para manter o grupo engajado.</p>
       <a href="https://github.com/pedrosoares0/bolao">Repositório</a>
     </td>
   </tr>
