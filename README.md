@@ -40,12 +40,7 @@ Olá! Sou o Pedro Soares. Sou formado em **Análise e Desenvolvimento de Sistema
       <br/>
       <h3>RB Group</h3>
       <p>Redesign completo e modernização institucional da presença digital da R+B Group, Inc. (Houston, Texas). Foco em autoridade corporativa e infraestrutura hídrica municipal.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      </p>
-      <a href="https://pedrosoares0.github.io/RBgroup/">🌐 Live Demo</a> | <a href="https://github.com/pedrosoares0/RBgroup">🐙 Repositório</a>
+      <a href="https://pedrosoares0.github.io/RBgroup/">Demo</a> | <a href="https://github.com/pedrosoares0/RBgroup">Repositório</a>
     </td>
     <td width="50%" valign="top">
       <a href="#">
@@ -54,12 +49,7 @@ Olá! Sou o Pedro Soares. Sou formado em **Análise e Desenvolvimento de Sistema
       <br/>
       <h3>Ilê Webapp</h3>
       <p>Plataforma para gestão interna de templos religiosos (Umbanda/Candomblé). Centraliza fluxo financeiro, calendário litúrgico interativo e biblioteca integrada.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-      </p>
-      <a href="https://github.com/pedrosoares0/ile-webapp">🐙 Repositório</a>
+      <a href="https://github.com/pedrosoares0/ile-webapp">Repositório</a>
     </td>
   </tr>
   <tr>
@@ -70,12 +60,7 @@ Olá! Sou o Pedro Soares. Sou formado em **Análise e Desenvolvimento de Sistema
       <br/>
       <h3>Dra. Laura</h3>
       <p>Landing page odontológica de alta conversão. Interface moderna e limpa, com arquitetura voltada para autoridade profissional e captação/agendamento de pacientes.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      </p>
-      <a href="https://pedrosoares0.github.io/dra.laura/">🌐 Live Demo</a> | <a href="https://github.com/pedrosoares0/dra.laura">🐙 Repositório</a>
+      <a href="https://pedrosoares0.github.io/dra.laura/">Demo</a> | <a href="https://github.com/pedrosoares0/dra.laura">Repositório</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://pedrosoares0.github.io/toinho-redes-landing/">
@@ -84,23 +69,24 @@ Olá! Sou o Pedro Soares. Sou formado em **Análise e Desenvolvimento de Sistema
       <br/>
       <h3>Toinho Redes</h3>
       <p>Landing page promocional e institucional desenvolvida para fabricante de redes esportivas personalizadas na Bahia. Otimizada para SEO local e captação de leads via mobile.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      </p>
-      <a href="https://pedrosoares0.github.io/toinho-redes-landing/">🌐 Live Demo</a> | <a href="https://github.com/pedrosoares0/toinho-redes-landing">🐙 Repositório</a>
+      <a href="https://pedrosoares0.github.io/toinho-redes-landing/">Demo</a> | <a href="https://github.com/pedrosoares0/toinho-redes-landing">Repositório</a>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📬 Entre em Contato
-
-Se você é recrutador, tem uma proposta de projeto ou gostaria de trocar ideias sobre frontend e design, sinta-se à vontade para entrar em contato:
-
-- **E-mail:** [pedrosoaress365@gmail.com](mailto:pedrosoaress365@gmail.com)
-- **LinkedIn:** [Pedro Soares](https://linkedin.com/in/pedrosoares0) <!-- NOTA: Atualize o link acima se o seu nome de usuário no LinkedIn for diferente de pedrosoares0 -->
-- **GitHub:** [pedrosoares0](https://github.com/pedrosoares0)
-- **WhatsApp:** [+55 (71) 99321-7001](https://wa.me/5571993217001)
+<p align="left">
+  <a href="mailto:pedrosoaress365@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/pedro-soares-6144b0328/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/pedrosoares0" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://wa.me/5571993217001" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
