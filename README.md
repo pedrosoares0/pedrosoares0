@@ -100,24 +100,6 @@ Olá! Sou o Pedro Soares. Sou formado em **Análise e Desenvolvimento de Sistema
     </td>
   </tr>
 
-  <!-- Espaçador entre projetos -->
-  <tr style="border: none;"><td colspan="3" height="20" style="border: none;"></td></tr>
-
-  <!-- Projeto 5: RB Group -->
-  <tr style="border: none;">
-    <td width="40%" valign="top" style="border: none;">
-      <a href="https://pedrosoares0.github.io/RBgroup/">
-        <img src="./assets/capa-rb.webp" alt="RB Group Preview" width="100%" style="border-radius: 8px; border: 1px solid #e1e4e8;"/>
-      </a>
-    </td>
-    <td width="5%" style="border: none;"></td>
-    <td width="55%" valign="top" style="border: none;">
-      <h3>RB Group</h3>
-      <p>Redesign completo e modernização institucional da presença digital da R+B Group, Inc. (Houston, Texas). Foco em autoridade corporativa e infraestrutura hídrica municipal.</p>
-      <a href="https://pedrosoares0.github.io/RBgroup/">Demo</a> | <a href="https://github.com/pedrosoares0/RBgroup">Repositório</a>
-    </td>
-  </tr>
-</table>
 
 ---
 
