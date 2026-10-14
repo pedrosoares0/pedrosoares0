@@ -78,7 +78,7 @@ Olá! Sou o Pedro Soares. Sou formado em **Análise e Desenvolvimento de Sistema
     <td width="55%" valign="top" style="border: none;">
       <h3>Toinho Redes</h3>
       <p>Landing page promocional e institucional desenvolvida para fabricante de redes esportivas personalizadas na Bahia. Otimizada para SEO local e captação de leads via mobile.</p>
-      <a href="https://pedrosoares0.github.io/toinho-redes-landing/">Demo</a> | <a href="https://github.com/pedrosoares0/toinho-redes-landing">Repositório</a>
+      <a href="https://toinho.netlify.app/">Demo</a> | <a href="https://github.com/pedrosoares0/toinho-redes-landing">Repositório</a>
     </td>
   </tr>
 
