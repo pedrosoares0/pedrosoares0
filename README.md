@@ -8,15 +8,6 @@
 
 ---
 
-### 🌐 Sobre Mim
-
-Olá! Sou o Pedro Soares. Sou formado em **Análise e Desenvolvimento de Sistemas (ADS)** e atualmente graduando em **Ciência da Computação**. Minha atuação profissional é focada no desenvolvimento frontend e design de interfaces, criando produtos digitais que alinham excelente usabilidade a um código limpo e performático.
-
-- **Atuação:** Desenvolvimento de sistemas web complexos, modernização de interfaces legado, otimização de performance frontend e desenvolvimento de landing pages de alta conversão.
-- **Diferencial:** Domínio completo do fluxo de design (UI/UX no Figma e Adobe Suite) integrado à implementação técnica ágil e componentizada (React, TypeScript, Tailwind CSS).
-
----
-
 ### 🛠️ Stacks & Competências
 
 | Categoria | Tecnologias & Ferramentas |
