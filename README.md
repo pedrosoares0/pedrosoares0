@@ -1,92 +1,68 @@
 <p align="center">
-  <img src="./banner.png" alt="Pedro Soares - Dev Frontend | Designer" width="100%"/>
+  <img src="./banner.webp" alt="Pedro Soares" width="100%" />
 </p>
+
 <p align="center">
-  <strong>Desenvolvedor Front-end & UI/UX Designer</strong><br>
-  Criando interfaces modernas, intuitivas e de alto desempenho que unem engenharia de software e design de experiência do usuário.
+  <strong>Front-end Developer & UI/UX Designer</strong><br />
+  <sub>Interfaces com direção de arte, movimento e arquitetura de produto — do conceito visual ao código em produção.</sub>
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedro-soares-6144b0328/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:pedrosoaress365@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://wa.me/5571993217001">WhatsApp</a>
+</p>
 
-### 🛠️ Stacks & Competências
+<br />
 
-| Categoria | Tecnologias & Ferramentas |
-| :--- | :--- |
-| **Frontend & Mobile** | ![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-0F172A?style=flat-square&logo=vite&logoColor=white) |
-| **Backend & Banco de Dados** | ![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-0F172A?style=flat-square&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=flat-square&logo=supabase&logoColor=white) |
-| **Design & UI/UX** | ![Figma](https://img.shields.io/badge/Figma-0F172A?style=flat-square&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe_XD-0F172A?style=flat-square&logo=adobexd&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-0F172A?style=flat-square&logo=adobephotoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-0F172A?style=flat-square&logo=adobeillustrator&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-0F172A?style=flat-square&logo=framer&logoColor=white) ![Webflow](https://img.shields.io/badge/Webflow-0F172A?style=flat-square&logo=webflow&logoColor=white) |
-| **Outros & Ferramentas** | ![Git](https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-0F172A?style=flat-square&logo=powerbi&logoColor=white) |
-
----
-
-### 🚀 Projetos em Destaque
-
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <!-- Projeto 1: Bolão -->
-  <tr style="border: none;">
-    <td width="40%" valign="top" style="border: none;">
-      <a href="https://bandidosapostados.netlify.app/">
-        <img src="./assets/capa-bolao.webp" alt="Bolão Copa 2026 Preview" width="100%" style="border-radius: 8px; border: 1px solid #e1e4e8;"/>
-      </a>
-    </td>
-    <td width="5%" style="border: none;"></td>
-    <td width="55%" valign="top" style="border: none;">
-      <h3>Bolão Copa do Mundo 2026</h3>
-      <p>Plataforma mobile-first completa para bolão da Copa do Mundo. Conta com placares ao vivo sincronizados diretamente com a API da ESPN, atualizações instantâneas de ranking, sistema integrado de premiações e fiados, e notificações automatizadas via WhatsApp para manter o grupo engajado.</p>
-      <a href="https://bandidosapostados.netlify.app/">Demo</a> | <a href="https://github.com/pedrosoares0/bolao">Repositório</a>
-    </td>
-  </tr>
-
-  <!-- Espaçador entre projetos -->
-  <tr style="border: none;"><td colspan="3" height="20" style="border: none;"></td></tr>
-
-  <!-- Projeto 3: Toinho Redes -->
-  <tr style="border: none;">
-    <td width="40%" valign="top" style="border: none;">
-      <a href="https://pedrosoares0.github.io/toinho-redes-landing/">
-        <img src="./assets/capa-toinho.webp" alt="Toinho Redes Preview" width="100%" style="border-radius: 8px; border: 1px solid #e1e4e8;"/>
-      </a>
-    </td>
-    <td width="5%" style="border: none;"></td>
-    <td width="55%" valign="top" style="border: none;">
-      <h3>Toinho Redes</h3>
-      <p>Landing page promocional e institucional desenvolvida para fabricante de redes esportivas personalizadas na Bahia. Otimizada para SEO local e captação de leads via mobile.</p>
-      <a href="https://toinho.netlify.app/">Demo</a> | <a href="https://github.com/pedrosoares0/toinho-redes-landing">Repositório</a>
-    </td>
-  </tr>
-
-  <!-- Espaçador entre projetos -->
-  <tr style="border: none;"><td colspan="3" height="20" style="border: none;"></td></tr>
-
-  <!-- Projeto 4: Ilê Webapp -->
-  <tr style="border: none;">
-    <td width="40%" valign="top" style="border: none;">
-      <a href="https://github.com/pedrosoares0/ile-webapp">
-        <img src="./assets/capa-ilê.webp" alt="Ilê Webapp Preview" width="100%" style="border-radius: 8px; border: 1px solid #e1e4e8;"/>
-      </a>
-    </td>
-    <td width="5%" style="border: none;"></td>
-    <td width="55%" valign="top" style="border: none;">
-      <h3>Ilê Webapp</h3>
-      <p>Plataforma para gestão interna de templos religiosos (Umbanda/Candomblé). Centraliza fluxo financeiro, calendário litúrgico interativo e biblioteca integrada.</p>
-      <a href="https://github.com/pedrosoares0/ile-webapp">Repositório</a>
-    </td>
-  </tr>
-
-
----
-
-<p align="left">
-  <a href="mailto:pedrosoaress365@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<p align="center">
+  <a href="https://ileapp.netlify.app/" target="_blank">
+    <img src="./assets/capa-ile.webp" alt="ilê — Gestão Litúrgica e Comunitária" width="49%" />
   </a>
-  <a href="https://www.linkedin.com/in/pedro-soares-6144b0328/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/pedrosoares0" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://wa.me/5571993217001" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  &nbsp;
+  <a href="https://bruska.netlify.app/" target="_blank">
+    <img src="./assets/capa-bruska.webp" alt="Bruska Pizza Club" width="49%" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://toinho.netlify.app/" target="_blank">
+    <img src="./assets/capa-toinho.webp" alt="Toinho Redes" width="49%" />
+  </a>
+  &nbsp;
+  <a href="https://dralaura.netlify.app/" target="_blank">
+    <img src="./assets/capa-laura.webp" alt="Dra. Laura Laytynher" width="49%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://overedito.netlify.app/" target="_blank">
+    <img src="./assets/capa-veredito.webp" alt="Veredito — Curador de Livros" width="49%" />
+  </a>
+  &nbsp;
+  <a href="https://oprimus.netlify.app/" target="_blank">
+    <img src="./assets/capa-primus.webp" alt="Primus — Prontidão Operacional Hospitalar" width="49%" />
+  </a>
+</p>
+
+<br />
+
+###### PROJETOS SELECIONADOS
+
+- **`01`** &nbsp; [**ilê**](https://ileapp.netlify.app/) — Plataforma web para gestão financeira, calendário litúrgico e acervo de terreiros. &nbsp; <sub><a href="https://ileapp.netlify.app/">Live ↗</a> · <a href="https://github.com/pedrosoares0/ile-webapp">Repositório</a></sub>
+- **`02`** &nbsp; [**Bruska Pizza Club**](https://bruska.netlify.app/) — Direção de arte e experiência interativa para o primeiro soft club de Salvador. &nbsp; <sub><a href="https://bruska.netlify.app/">Live ↗</a> · <a href="https://github.com/pedrosoares0/bruska">Repositório</a></sub>
+- **`03`** &nbsp; [**Toinho Redes**](https://toinho.netlify.app/) — Landing page comercial com foco em posicionamento de marca e captação mobile. &nbsp; <sub><a href="https://toinho.netlify.app/">Live ↗</a> · <a href="https://github.com/pedrosoares0/toinho-redes-landing">Repositório</a></sub>
+- **`04`** &nbsp; [**Dra. Laura Laytynher**](https://dralaura.netlify.app/) — Portfólio clínico e presença digital para reabilitação oral e odontologia estética. &nbsp; <sub><a href="https://dralaura.netlify.app/">Live ↗</a> · <a href="https://github.com/pedrosoares0/dra.laura">Repositório</a></sub>
+- **`05`** &nbsp; [**Veredito**](https://overedito.netlify.app/) — Avaliador e curador pessoal de livros que separa qualidade técnica de afinidade. &nbsp; <sub><a href="https://overedito.netlify.app/">Live ↗</a> · <a href="https://github.com/pedrosoares0/livros">Repositório</a></sub>
+- **`06`** &nbsp; [**Primus**](https://oprimus.netlify.app/) — SaaS de prontidão operacional, checklists e governança para centros cirúrgicos. &nbsp; <sub><a href="https://oprimus.netlify.app/">Live ↗</a> · <a href="https://github.com/pedrosoares0/primus">Repositório</a></sub>
+- **`07`** &nbsp; [**Bolão Copa 2026**](https://bandidosapostados.netlify.app/) — Plataforma mobile-first com placares em tempo real via ESPN e ranking ao vivo. &nbsp; <sub><a href="https://bandidosapostados.netlify.app/">Live ↗</a> · <a href="https://github.com/pedrosoares0/bolao">Repositório</a></sub>
+
+<br />
+
+###### STACK & COMPETÊNCIAS
+
+- **Front-end & Motion** — `TypeScript` `React` `Next.js` `Tailwind CSS` `GSAP` `Framer Motion` `Vite`
+- **Back-end & Dados** — `Node.js` `Express` `Supabase` `MySQL` `Python`
+- **Design & Produto** — `Figma` `UI/UX` `Design Systems` `Direção de Arte` `Framer` `Webflow` `Adobe Suite`
