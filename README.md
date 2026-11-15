@@ -40,24 +40,6 @@
   <!-- Espaçador entre projetos -->
   <tr style="border: none;"><td colspan="3" height="20" style="border: none;"></td></tr>
 
-  <!-- Projeto 2: Dra. Laura -->
-  <tr style="border: none;">
-    <td width="40%" valign="top" style="border: none;">
-      <a href="https://pedrosoares0.github.io/dra.laura/">
-        <img src="./assets/capa-laura.webp" alt="Dra. Laura Preview" width="100%" style="border-radius: 8px; border: 1px solid #e1e4e8;"/>
-      </a>
-    </td>
-    <td width="5%" style="border: none;"></td>
-    <td width="55%" valign="top" style="border: none;">
-      <h3>Dra. Laura</h3>
-      <p>Landing page odontológica de alta conversão. Interface moderna e limpa, com arquitetura voltada para autoridade profissional e captação/agendamento de pacientes.</p>
-      <a href="https://pedrosoares0.github.io/dra.laura/">Demo</a> | <a href="https://github.com/pedrosoares0/dra.laura">Repositório</a>
-    </td>
-  </tr>
-
-  <!-- Espaçador entre projetos -->
-  <tr style="border: none;"><td colspan="3" height="20" style="border: none;"></td></tr>
-
   <!-- Projeto 3: Toinho Redes -->
   <tr style="border: none;">
     <td width="40%" valign="top" style="border: none;">
