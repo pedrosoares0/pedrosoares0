@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Front-end Developer & UI/UX Designer</strong><br />
-  <sub>Interfaces com direção de arte, movimento e arquitetura de produto — do conceito visual ao código em produção.</sub>
+  <sub>Desenvolvendo interfaces modernas, fluidas e de alto desempenho — unindo engenharia de software, design de produto e código limpo.</sub>
 </p>
 
 <p align="center">
@@ -51,13 +51,13 @@
 
 ###### PROJETOS SELECIONADOS
 
-- [**ilê**](https://ileapp.netlify.app/) — Plataforma web para gestão financeira, calendário litúrgico e acervo de terreiros. &nbsp; <sub><a href="https://ileapp.netlify.app/">Live ↗</a> · <a href="https://github.com/pedrosoares0/ile-webapp">Repositório</a></sub>
-- [**Bruska Pizza Club**](https://bruska.netlify.app/) — Direção de arte e experiência interativa para o primeiro soft club de Salvador. &nbsp; <sub><a href="https://bruska.netlify.app/">Live ↗</a> · <a href="https://github.com/pedrosoares0/bruska">Repositório</a></sub>
-- [**Toinho Redes**](https://toinho.netlify.app/) — Landing page comercial com foco em posicionamento de marca e captação mobile. &nbsp; <sub><a href="https://toinho.netlify.app/">Live ↗</a> · <a href="https://github.com/pedrosoares0/toinho-redes-landing">Repositório</a></sub>
-- [**Dra. Laura Laytynher**](https://dralaura.netlify.app/) — Portfólio clínico e presença digital para reabilitação oral e odontologia estética. &nbsp; <sub><a href="https://dralaura.netlify.app/">Live ↗</a> · <a href="https://github.com/pedrosoares0/dra.laura">Repositório</a></sub>
-- [**Veredito**](https://overedito.netlify.app/) — Avaliador e curador pessoal de livros que separa qualidade técnica de afinidade. &nbsp; <sub><a href="https://overedito.netlify.app/">Live ↗</a> · <a href="https://github.com/pedrosoares0/livros">Repositório</a></sub>
-- [**Primus**](https://oprimus.netlify.app/) — SaaS de prontidão operacional, checklists e governança para centros cirúrgicos. &nbsp; <sub><a href="https://oprimus.netlify.app/">Live ↗</a> · <a href="https://github.com/pedrosoares0/primus">Repositório</a></sub>
-- [**Bolão Copa 2026**](https://bandidosapostados.netlify.app/) — Plataforma mobile-first com placares em tempo real via ESPN e ranking ao vivo. &nbsp; <sub><a href="https://bandidosapostados.netlify.app/">Live ↗</a> · <a href="https://github.com/pedrosoares0/bolao">Repositório</a></sub>
+- [**ilê**](https://ileapp.netlify.app/) — Plataforma web desenvolvida em React, TypeScript e Tailwind CSS para gestão financeira, calendário litúrgico e acervo comunitário. &nbsp; <sub><a href="https://ileapp.netlify.app/">Live ↗</a> · <a href="https://github.com/pedrosoares0/ile-webapp">Repositório</a></sub>
+- [**Bruska Pizza Club**](https://bruska.netlify.app/) — Aplicação web construída em React 19, Tailwind CSS e GSAP, com microinterações, smooth scroll (Lenis) e foco em experiência do usuário. &nbsp; <sub><a href="https://bruska.netlify.app/">Live ↗</a> · <a href="https://github.com/pedrosoares0/bruska">Repositório</a></sub>
+- [**Toinho Redes**](https://toinho.netlify.app/) — Landing page desenvolvida em React, TypeScript e Tailwind CSS, com animações GSAP e arquitetura otimizada para SEO local e captação mobile. &nbsp; <sub><a href="https://toinho.netlify.app/">Live ↗</a> · <a href="https://github.com/pedrosoares0/toinho-redes-landing">Repositório</a></sub>
+- [**Dra. Laura Laytynher**](https://dralaura.netlify.app/) — Portfólio clínico desenvolvido em React, TypeScript e Tailwind CSS, estruturado para autoridade profissional, performance e conversão de pacientes. &nbsp; <sub><a href="https://dralaura.netlify.app/">Live ↗</a> · <a href="https://github.com/pedrosoares0/dra.laura">Repositório</a></sub>
+- [**Veredito**](https://overedito.netlify.app/) — Aplicação de curadoria e avaliação de livros construída com React 19, TypeScript e Supabase, com cálculo personalizado de afinidade e persistência na nuvem. &nbsp; <sub><a href="https://overedito.netlify.app/">Live ↗</a> · <a href="https://github.com/pedrosoares0/livros">Repositório</a></sub>
+- [**Primus**](https://oprimus.netlify.app/) — SaaS hospitalar em Next.js, TypeScript e Supabase para prontidão de centros cirúrgicos, gestão de não conformidades e checklists em tempo real. &nbsp; <sub><a href="https://oprimus.netlify.app/">Live ↗</a> · <a href="https://github.com/pedrosoares0/primus">Repositório</a></sub>
+- [**Bolão Copa 2026**](https://bandidosapostados.netlify.app/) — Plataforma mobile-first com consumo de API externa (ESPN) para placares ao vivo, regras de lockout server-side e ranking em tempo real. &nbsp; <sub><a href="https://bandidosapostados.netlify.app/">Live ↗</a> · <a href="https://github.com/pedrosoares0/bolao">Repositório</a></sub>
 
 <br />
 
