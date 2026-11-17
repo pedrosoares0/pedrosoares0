@@ -57,7 +57,6 @@
 - [**Dra. Laura Laytynher**](https://dralaura.netlify.app/) — Portfólio clínico desenvolvido em React, TypeScript e Tailwind CSS, estruturado para autoridade profissional, performance e conversão de pacientes. &nbsp; <sub><a href="https://dralaura.netlify.app/">Live ↗</a> · <a href="https://github.com/pedrosoares0/dra.laura">Repositório</a></sub>
 - [**Veredito**](https://overedito.netlify.app/) — Aplicação de curadoria e avaliação de livros construída com React 19, TypeScript e Supabase, com cálculo personalizado de afinidade e persistência na nuvem. &nbsp; <sub><a href="https://overedito.netlify.app/">Live ↗</a> · <a href="https://github.com/pedrosoares0/livros">Repositório</a></sub>
 - [**Primus**](https://oprimus.netlify.app/) — SaaS hospitalar em Next.js, TypeScript e Supabase para prontidão de centros cirúrgicos, gestão de não conformidades e checklists em tempo real. &nbsp; <sub><a href="https://oprimus.netlify.app/">Live ↗</a></sub>
-- [**Bolão Copa 2026**](https://github.com/pedrosoares0/bolao) — Plataforma mobile-first com consumo de API externa (ESPN) para placares ao vivo, regras de lockout server-side e ranking em tempo real. &nbsp; <sub><a href="https://github.com/pedrosoares0/bolao">Repositório</a></sub>
 
 <br />
 
